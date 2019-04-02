@@ -1,3 +1,6 @@
+# XGBoost 源码阅读笔记
+基于原先的 XGBoost 项目, 结合自己的理解, 增加相关的源码阅读笔记
+
 <img src=https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png width=135/>  eXtreme Gradient Boosting
 ===========
 [![Build Status](https://xgboost-ci.net/job/xgboost/job/master/badge/icon?style=plastic)](https://xgboost-ci.net/blue/organizations/jenkins/xgboost/activity)
